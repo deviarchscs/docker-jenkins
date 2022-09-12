@@ -16,3 +16,7 @@ ansible:1.1
 docker-commons:1.21
 audit-trail:3.11
 logstash:2.5.0205.vd05825ed46bd
+mailer:438.v02c7f0a_12fa_4
+javax-activation-api:1.2.0-4
+javax-mail-api:1.6.2-7
+instance-identity:116.vf8f487400980
